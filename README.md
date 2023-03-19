@@ -34,4 +34,4 @@ In this project, a neural network is implemented from scratch in Python and wand
 | `-a`, `--activation` | tanh | choices:  ["identity", "sigmoid", "tanh", "relu"] |
 
 
-Visit `https://api.wandb.ai/links/cs6910_2023/0o5s5vtx` to view all the sweep information for selecting the hyperparameters, runs, sample photos, and accompanying visualisations as it contains the whole report.
+Visit `https://api.wandb.ai/links/team_exe/c5uytpu7` to view all the sweep information for selecting the hyperparameters, runs, sample photos, and accompanying visualisations as it contains the whole report.
