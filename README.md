@@ -35,3 +35,4 @@ In this project, a neural network is implemented from scratch in Python and wand
 
 
 Visit `https://api.wandb.ai/links/team_exe/c5uytpu7` to view all the sweep information for selecting the hyperparameters, runs, sample photos, and accompanying visualisations as it contains the whole report.
+You can refer to the python notebook for detailed implementation of code along with all of the questions that were given in assignment. 
