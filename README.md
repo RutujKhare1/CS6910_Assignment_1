@@ -1,5 +1,5 @@
 # Deep-Learning  Assignment 1
-In this project, a neural network is implemented from scratch in Python and wandb is used to log metrics like accuracy and losses. You can build neural network, train it using the mnist or fashion mnist dataset with various parameter configurations.
+In this project, a Feed-Forward neural network is implemented from scratch in Python and wandb is used to log metrics like accuracy and losses. You can build neural network, train it using the mnist or fashion mnist dataset with various parameter configurations.
 
 ### Dependencies
  - python
